@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  neng:
+    container_name: neng
+    build: ./ubuntu
+    volumes:
+      - ./:/root/host
