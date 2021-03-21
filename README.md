@@ -2,11 +2,11 @@
  
  ## Description
  
- This is a self contained docker composer setup that will create a NENG coin wallet and run the cheetah cpu miner. This is intended for people on an unsupported system like apple mac Big Sur.
+ This is a self contained docker composer setup that will create a [NENG coin wallet](https://github.com/ShorelineCrypto/nengcoin) and run the [cheetah cpu miner](https://github.com/ShorelineCrypto/cheetah_cpuminer). This is intended for people on an unsupported system like apple mac Big Sur.
  
  ## Requirments
  
- Docker
+ [Docker](https://www.docker.com/)
  
  ## Quick setup
  
